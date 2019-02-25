@@ -1,5 +1,5 @@
 # This library is for
-		# Encrypting/decrypting by password
+		# Encrypting/decrypting by password depends on Caesar Encryption
 		# data
                 ############################################################################################################
 		################################################## Commands ################################################
